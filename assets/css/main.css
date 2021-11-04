@@ -1,0 +1,15 @@
+#Home{
+    position: relative;
+}
+.Home-container{
+    background-image: url(../image/background_img/background_img_about.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    position: absolute;
+    inset: 0;
+}
+.Home-nav{
+    
+}
